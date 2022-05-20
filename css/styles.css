@@ -1,0 +1,21 @@
+.div1 {
+  background-color: #E4F9F5;
+}
+.div2{
+  background-color: #30E3CA;
+  height: 200px;
+  width:200px;
+}
+.div3{
+  background-color: #11999E;
+  height: 200px;
+  width:200px;
+}
+
+body {
+  margin:0;
+}
+h1 {
+  margin-top: 0;
+  margin-right: 0;
+}
